@@ -1,6 +1,6 @@
 ## Visão computacional em python com auxilio de IA
 
-### Na linguagem(3.10):
+### Na linguagem(3.10.0):
 ![blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ### Com inteligência artificial:
 ![blog](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
