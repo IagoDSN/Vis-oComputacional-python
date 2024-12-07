@@ -14,3 +14,4 @@
 #### pip install --upgrade opencv-python-headless tensorflow
 
 ###### OBS:(matenha o github em inglês ou nome de arquivos/comandos podem ser alterados).
+https://www.python.org/downloads/release/python-3100/
