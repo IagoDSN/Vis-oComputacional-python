@@ -10,6 +10,7 @@
 
 #### pip install --upgrade pip
 #### pip install opencv-python
+#### pip install tensorflow
 #### pip install torch torchvision opencv-python-headless
 #### pip install --upgrade opencv-python-headless tensorflow
 
